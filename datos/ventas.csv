@@ -1,0 +1,86 @@
+id,fecha,producto,categoria,cantidad,precio_unitario
+1,2026-01-05,Camiseta River Plate,Camisetas,3,45000
+2,2026-01-08,Camiseta Talleres,Camisetas,5,45000
+3,2026-01-12,Botines Nike Mercurial,Botines,2,120000
+4,2026-01-15,Medias de Fútbol,Accesorios,10,3500
+5,2026-01-20,Camiseta Selección Argentina,Camisetas,8,55000
+6,2026-01-25,Guantes de Arquero,Accesorios,3,28000
+7,2026-02-03,Camiseta Racing Club,Camisetas,4,45000
+8,2026-02-07,Botines Adidas Predator,Botines,3,135000
+9,2026-02-10,Pelota de Fútbol N5,Accesorios,6,22000
+10,2026-02-14,Camiseta Selección Argentina,Camisetas,10,55000
+11,2026-02-18,Rodilleras,Accesorios,8,8500
+12,2026-02-22,Camiseta Independiente,Camisetas,3,45000
+13,2026-02-28,Botines Puma Future,Botines,2,115000
+14,2026-03-02,Camiseta River Plate,Camisetas,6,45000
+15,2026-03-06,Medias de Fútbol,Accesorios,15,3500
+16,2026-03-10,Camiseta Boca Juniors,Camisetas,7,45000
+17,2026-03-14,Guantes de Arquero,Accesorios,4,28000
+18,2026-03-18,Pelota de Fútbol N5,Accesorios,5,22000
+19,2026-03-22,Botines Nike Mercurial,Botines,4,120000
+20,2026-03-28,Camiseta Selección Argentina,Camisetas,12,55000
+21,2026-04-02,Camiseta Racing Club,Camisetas,5,45000
+22,2026-04-06,Rodilleras,Accesorios,10,8500
+23,2026-04-10,Camiseta San Lorenzo,Camisetas,4,45000
+24,2026-04-15,Botines Adidas Predator,Botines,5,135000
+25,2026-04-19,Medias de Fútbol,Accesorios,20,3500
+26,2026-04-23,Camiseta Belgrano,Camisetas,8,45000
+27,2026-04-27,Pelota de Fútbol N5,Accesorios,7,22000
+28,2026-05-03,Camiseta Selección Argentina,Camisetas,15,55000
+29,2026-05-08,Botines Puma Future,Botines,3,115000
+30,2026-05-12,Guantes de Arquero,Accesorios,5,28000
+31,2026-05-16,Camiseta Boca Juniors,Camisetas,9,45000
+32,2026-05-20,Rodilleras,Accesorios,12,8500
+33,2026-05-24,Camiseta Independiente,Camisetas,6,45000
+34,2026-05-28,Botines Nike Mercurial,Botines,5,120000
+35,2026-06-02,Camiseta Selección Argentina,Camisetas,18,55000
+36,2026-06-06,Medias de Fútbol,Accesorios,25,3500
+37,2026-06-10,Camiseta River Plate,Camisetas,10,45000
+38,2026-06-14,Pelota de Fútbol N5,Accesorios,8,22000
+39,2026-06-18,Botines Adidas Predator,Botines,4,135000
+40,2026-06-22,Camiseta Boca Juniors,Camisetas,11,45000
+41,2026-06-26,Guantes de Arquero,Accesorios,6,28000
+42,2026-07-03,Camiseta Selección Argentina,Camisetas,20,55000
+43,2026-07-08,Camiseta Racing Club,Camisetas,7,45000
+44,2026-07-12,Rodilleras,Accesorios,15,8500
+45,2026-07-16,Botines Puma Future,Botines,4,115000
+46,2026-07-20,Medias de Fútbol,Accesorios,30,3500
+47,2026-07-24,Camiseta River Plate,Camisetas,12,45000
+48,2026-07-28,Pelota de Fútbol N5,Accesorios,9,22000
+49,2026-08-02,Camiseta Selección Argentina,Camisetas,14,55000
+50,2026-08-06,Botines Nike Mercurial,Botines,6,120000
+51,2026-08-10,Camiseta San Lorenzo,Camisetas,5,45000
+52,2026-08-14,Guantes de Arquero,Accesorios,7,28000
+53,2026-08-18,Camiseta Boca Juniors,Camisetas,13,45000
+54,2026-08-22,Rodilleras,Accesorios,18,8500
+55,2026-08-26,Botines Adidas Predator,Botines,5,135000
+56,2026-09-03,Camiseta Selección Argentina,Camisetas,22,55000
+57,2026-09-07,Medias de Fútbol,Accesorios,35,3500
+58,2026-09-11,Camiseta River Plate,Camisetas,14,45000
+59,2026-09-15,Pelota de Fútbol N5,Accesorios,10,22000
+60,2026-09-19,Botines Puma Future,Botines,5,115000
+61,2026-09-23,Camiseta Independiente,Camisetas,8,45000
+62,2026-09-27,Guantes de Arquero,Accesorios,8,28000
+63,2026-10-02,Camiseta Selección Argentina,Camisetas,25,55000
+64,2026-10-06,Camiseta Boca Juniors,Camisetas,15,45000
+65,2026-10-10,Botines Nike Mercurial,Botines,7,120000
+66,2026-10-14,Rodilleras,Accesorios,20,8500
+67,2026-10-18,Medias de Fútbol,Accesorios,40,3500
+68,2026-10-22,Camiseta River Plate,Camisetas,16,45000
+69,2026-10-26,Pelota de Fútbol N5,Accesorios,12,22000
+70,2026-10-30,Camiseta Racing Club,Camisetas,9,45000
+71,2026-11-04,Camiseta Selección Argentina,Camisetas,30,55000
+72,2026-11-08,Botines Adidas Predator,Botines,6,135000
+73,2026-11-12,Guantes de Arquero,Accesorios,9,28000
+74,2026-11-16,Camiseta Boca Juniors,Camisetas,17,45000
+75,2026-11-20,Medias de Fútbol,Accesorios,45,3500
+76,2026-11-24,Camiseta River Plate,Camisetas,18,45000
+77,2026-11-28,Botines Puma Future,Botines,6,115000
+78,2026-12-02,Camiseta Selección Argentina,Camisetas,35,55000
+79,2026-12-06,Pelota de Fútbol N5,Accesorios,14,22000
+80,2026-12-10,Camiseta San Lorenzo,Camisetas,7,45000
+81,2026-12-14,Botines Nike Mercurial,Botines,8,120000
+82,2026-12-18,Camiseta Boca Juniors,Camisetas,20,45000
+83,2026-12-22,Rodilleras,Accesorios,22,8500
+84,2026-12-26,Camiseta Talleres,Camisetas,22,45000
+85,2026-12-30,Camiseta Selección Argentina,Camisetas,40,55000
