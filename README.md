@@ -9,7 +9,7 @@ Universidad Tecnológica Nacional · Tecnicatura Universitaria en Programación 
 
 | Rol | Personaje | Responsabilidad |
 |-----|-----------|-----------------||
-| P1 — Líder y Organizador | Hugo | Gobernanza del repositorio, estructura de carpetas, README |
+| P1 — Líder y Organizador | Hugo | Administrador del repositorio, estructura de carpetas, README |
 | P2 — Desarrollador Técnico | Paco | Script de análisis en Python, procesamiento del dataset |
 | P3 — Revisor y QA | Luis | Peer Review, documentación interna, cierre de Pull Requests |
 
